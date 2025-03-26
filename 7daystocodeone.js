@@ -33,4 +33,5 @@ console.log(resultadoTrinta);
 
 let resultadoDez = numeroDez == stringDez ? 'as variáveis numeroDez e stringDez tem valores iguais, porém, possuem tipos diferentes!' : 'As variáveis numeroDez e stringDez não tem o mesmo valor!';
 console.log(resultadoDez);
-
+//Tá ai né? kk codigosinho tenso em?? kk 
+//se tu leu até aqui, a palavra chave é "coockie"
